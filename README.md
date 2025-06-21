@@ -1,1 +1,3 @@
-# Lab3_Clustering_Healthcare
+Clustering Analysis for Patient Wellness Segmentation using Unsupervised Machine Learning
+
+This project applies K-Means, Agglomerative Clustering, and DBSCAN to segment patient wellness data based on features such as exercise, diet, sleep, stress, and BMI. Dimensionality reduction using PCA was performed to visualize and enhance clustering. The goal is to identify patient profiles for targeted health interventions. All code, visualizations, and evaluations (Silhouette Score & Davies-Bouldin Index) are documented in this Jupyter Notebook. This project fulfills the Lab 3 requirement for the MSBA Machine Learning course.
